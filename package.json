@@ -1,0 +1,23 @@
+{
+  "name": "vue-ui",
+  "version": "0.0.1",
+  "description": "Vue ui 框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songenen/VueUi.git"
+  },
+  "keywords": [
+    "Vue",
+    "ui"
+  ],
+  "author": "songen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songenen/VueUi/issues"
+  },
+  "homepage": "https://github.com/songenen/VueUi#readme"
+}
