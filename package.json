@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/songenen/VueUi/issues"
   },
-  "homepage": "https://github.com/songenen/VueUi#readme"
+  "homepage": "https://github.com/songenen/VueUi#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
 }
